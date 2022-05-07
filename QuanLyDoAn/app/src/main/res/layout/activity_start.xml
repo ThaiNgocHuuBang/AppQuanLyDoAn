@@ -18,39 +18,34 @@
         android:text="@string/app_name"
         android:textAlignment="center"
         android:textColor="@color/primary"
-        android:textSize="32dp"
+        android:textSize="48dp"
         android:textStyle="bold" />
+
 
     <ImageView
         android:id="@+id/ivStartLogo"
         android:layout_width="match_parent"
         android:layout_height="360dp"
         android:layout_below="@id/tvStartTitle"
-        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
         android:layout_gravity="center"
+        android:layout_marginTop="61dp"
         android:src="@drawable/logo" />
 
     <TextView
-        android:id="@+id/tvStartSlogan1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/ivStartLogo"
-        android:layout_marginTop="24dp"
-        android:paddingLeft="24dp"
-        android:text="@string/start_text_1"
-        android:textColor="@color/primary"
-        android:textSize="24dp"
-        android:textStyle="bold" />
-
-    <TextView
         android:id="@+id/tvStartSlogan2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/tvStartSlogan1"
-        android:paddingLeft="24dp"
+        android:layout_width="283dp"
+        android:layout_height="79dp"
+        android:layout_below="@+id/ivStartLogo"
+        android:layout_alignStart="@+id/ivStartLogo"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="-3dp"
+        android:layout_marginTop="127dp"
+        android:layout_marginEnd="15dp"
+        android:paddingLeft="30dp"
         android:text="@string/start_text_2"
         android:textColor="@color/primary"
-        android:textSize="24dp"
+        android:textSize="40dp"
         android:textStyle="bold" />
 
     <TextView
@@ -58,14 +53,19 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvStartSlogan2"
+
+        android:layout_marginTop="-1dp"
+        android:layout_marginBottom="40dp"
         android:paddingLeft="24dp"
         android:text="@string/start_text_3"
         android:textColor="@color/primary"
-        android:textSize="18dp"
-        android:textStyle="bold" />
+        android:textSize="20dp" />
+
 
     <Button
         android:id="@+id/btnStart"
         style="@style/style_bottom_btn"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="113dp"
         android:text="@string/get_started" />
 </RelativeLayout>

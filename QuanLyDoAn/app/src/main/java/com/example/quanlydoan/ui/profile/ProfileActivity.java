@@ -153,10 +153,10 @@ public class ProfileActivity extends BaseActivity {
             return false;
         }
 
-        if(editTextProfilePassword.getText().toString().trim().equals(editTextProfileRetypePassword.getText().toString().trim())){
-            showMessage("Retype password not correct");
-            return false;
-        }
+//        if(editTextProfilePassword.getText().toString().trim().equals(editTextProfileRetypePassword.getText().toString().trim())){
+//            showMessage("Retype password not correct");
+//            return false;
+//        }
 
         return true;
     }
@@ -201,7 +201,7 @@ public class ProfileActivity extends BaseActivity {
             @Override
             public void onCancelled(DatabaseError error) {
                 Log.e(TAG, "Failed to read value.", error.toException());
-                showMessage("Đã có lỗi khi cập nhật thông tin cá nhân");
+                showMessage("There was an error updating personal information!");
                 hideLoading();
             }
         });
