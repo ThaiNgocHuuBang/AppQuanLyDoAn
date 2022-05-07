@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable-v24/tab_select.xml" value="0.121" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable-v24/tab_unselect.xml" value="0.121" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable-v24/white_border.xml" value="0.138" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable/bg_white.xml" value="0.138" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable/bg_white_elip.xml" value="0.138" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable/change_color.xml" value="0.138" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable/gray_pill.xml" value="0.138" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable/orange_pill.xml" value="0.138" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable/start_background.xml" value="0.136" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/drawable/start_button.xml" value="0.138" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/layout/activity_cart.xml" value="0.1" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/layout/activity_food.xml" value="0.16216216216216217" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/layout/activity_food_info.xml" value="0.176" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/layout/activity_home.xml" value="0.16216216216216217" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/layout/activity_menu.xml" value="0.16216216216216217" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/layout/activity_start.xml" value="0.176" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/layout/layout_item_food.xml" value="0.16216216216216217" />
+        <entry key="..\:/Data/FileLapTrinh/QuanLyDoAn/app/src/main/res/layout/layout_item_type.xml" value="0.16216216216216217" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/drawable-v24/tab_select.xml" value="0.192" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_cart.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_food_info.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_home.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_menu.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_order.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_order_info.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_register.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/activity_start.xml" value="0.264" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/layout_item_cartfood.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/layout_item_category.xml" value="0.18385416666666668" />
+        <entry key="..\:/UEH/Mobile/QuanLyDoAn/app/src/main/res/layout/layout_item_food.xml" value="0.18385416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
